@@ -14,5 +14,14 @@ it's something between Fast.ai and Deeplearning.ai.
 You could see some results below.
 
 ## Style transfer
-1. Eagle and the painting combination
-[eagle](images/eagle.jpeg)
+1. Eagle and the Street Painting combination
+
+![Eagle](images/eagle.jpeg)
+![Painting](images/painting.jpeg)
+
+![Combination](images/eagle1.jpeg)
+
+2. Eagle and the Lion painting
+
+![Painting](images/lionart.jpeg)
+![Combination](images/eagle2.jpeg)
